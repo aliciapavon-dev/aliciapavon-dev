@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=150&section=header&text=HELLO%20WORLD&fontSize=60&fontColor=ffffff" width="100%" />
 
 <!-- Snoopy a la izquierda -->
-<img src="WhatsApp Image 2026-06-16 at 9.37.46 PM.jpeg" width="150" align="left" />
+<img src="snoopy.jpeg" width="150" align="left" />
 
 <br>
 <h2>Holi Soy Liss :) </h2>
